@@ -8,7 +8,7 @@ $options = {}
 optparse = OptionParser.new do|opts|
 	# Set a banner, displayed at the top
 	# # of the help screen.
-	opts.banner = "gaitling_gun.rb [$options]"
+	opts.banner = "gatling_gun.rb [$options]"
 
 	# This displays the help screen, all programs are
 	# assumed to have this option.
